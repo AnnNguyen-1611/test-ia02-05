@@ -1,0 +1,16 @@
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Credentials
+.env
+
+# Generated clutter
+*.log
+*.tmp
